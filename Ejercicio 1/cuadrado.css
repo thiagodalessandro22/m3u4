@@ -1,0 +1,11 @@
+.contenedor{
+    display: flex;
+    margin: 30px auto 0px auto;
+    padding-top: 130px;
+    justify-content: center;
+}
+
+.item{
+	width: 150px;
+	height: 150px;
+}
